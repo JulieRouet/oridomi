@@ -1,0 +1,77 @@
+body {
+
+  background-color: grey;
+}
+
+
+.oridomi {
+
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+
+}
+
+
+
+img {
+  height: 70%;
+  width: 100%;
+  position: relative;
+  background-color: white;
+
+}
+
+p {
+  position: absolute;
+  margin-top: 10%;
+  margin-right: 20%;
+
+  height: 30%;
+  width: 100%;
+  text-align: center;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: grey;
+   background-color: beige;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   font-size: 4em;
+   text-transform: uppercase;
+ }
+
+ .oridomi2 {
+
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-top: 10%;
+   margin-bottom: 10%;
+
+ }
+
+ .img2 {
+   height: 70%;
+   width: 100%;
+   position: relative;
+   background-color: white;
+
+ }
+
+
+ .oridomi3 {
+
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-top: 10%;
+   margin-bottom: 10%;
+
+ }
+
+ .img3 {
+   height: 70%;
+   width: 100%;
+   position: relative;
+   background-color: white;
+
+ }
